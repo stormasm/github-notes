@@ -13,3 +13,7 @@ These are all forks of interesting github repos that I am no longer actively wor
 #### No longer under development
 
 - [amtoine's nu-git-manager](https://github.com/amtoine/nu-git-manager)
+
+#### Progress
+
+9/14/26 down to 260 repos
