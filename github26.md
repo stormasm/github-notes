@@ -1,4 +1,11 @@
 
+These are all forks of interesting github repos that I am no longer actively working on.
+
+### Equity
+
+- [Download market data from Yahoo! Finance's API](https://github.com/ranaroussi/yfinance)
+
+
 ### Nushell
 
 - [drbrain nushell configuration files](https://github.com/drbrain/nushell-config)
