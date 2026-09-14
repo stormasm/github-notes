@@ -1,7 +1,7 @@
 
 ### Nushell
 
-- [nushell configuration files](https://github.com/drbrain/nushell-config)
+- [drbrain nushell configuration files](https://github.com/drbrain/nushell-config)
 
 #### No longer under development
 
